@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="cover_img.gif">
 <h1 align="center">Hi 👋, I'm Hamza Ghafoor</h1>
 <h3 align="center">📊 Data Analytics Enthusiast | 📈 Storyteller of Numbers | 🤖 Machine Learning Enthusiast</h3>
 
