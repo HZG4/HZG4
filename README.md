@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Hamza Ghafoor</h1>
 <h3 align="center">📊 Data Analytics Enthusiast | 📈 Storyteller of Numbers | 🤖 Machine Learning Enthusiast</h3>
 
-<h5 align="center">I am a passionate data enthusiast on a mission to unlock the hidden insights within data. With a strong foundation in statistics, programming, and data visualization, I thrive on the thrill of transforming raw data into actionable insights.</h5>
+<p align="center">I am a passionate data enthusiast on a mission to unlock the hidden insights within data. With a strong foundation in statistics, programming, and data visualization, I thrive on the thrill of transforming raw data into actionable insights.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hzg4&label=Profile%20views&color=0e75b6&style=flat" alt="hzg4" /> </p>
 
