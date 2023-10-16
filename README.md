@@ -8,7 +8,7 @@
 
 - 👨‍🎓 Learning **Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn**
 
-- 📚 Ex - Core Team Member **Google Developer Student Club**
+- 📚 Ex-Core Team Member **Google Developer Student Club**
 
 - 🤝 Mentoring **Computer Science Society CUI**
 
