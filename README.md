@@ -4,7 +4,7 @@
 
 <p align="center">I am a passionate data enthusiast on a mission to unlock the hidden insights within data. I thrive on the thrill of transforming raw data into actionable insights.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hzg4&label=Profile%20views&color=0e75b6&style=flat" alt="hzg4" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hzg4&label=Profile%20views&color=0e75b6&style=flat" alt="hzg4" /> </p>
 
 - 👨‍🎓 Learning **Pandas, NumPy, Matplotlib, Scikit-Learn, Seaborn**
 
